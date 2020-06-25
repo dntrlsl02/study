@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>t1</title>
+<title>t3</title>
 </head>
 <body>
 	<h1>m.jsp입니다</h1>
